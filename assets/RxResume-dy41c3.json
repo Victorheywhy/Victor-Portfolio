@@ -267,10 +267,10 @@
 			"pincode": "430252"
 		},
 		"birthDate": "2001-02-27",
-		"email": "lovedayperfection1@gmail.com",
-		"firstName": "Perfection",
+		"email": "AjibadeVictor1@gmail.com",
+		"firstName": "Victor",
 		"heading": "Profile",
-		"lastName": "Loveday",
+		"lastName": "Ajibade",
 		"phone": "+234 807 0718 502",
 		"photograph": "https://firebasestorage.googleapis.com/v0/b/rx-resume.appspot.com/o/users%2FkCPywPeUAahpFkKhh7seYqCKebO2%2Fphotographs%2Fdy41c3?alt=media&token=b56eea3b-5032-4b26-8e1f-9cab94de0029",
 		"subtitle": "Software Engineer",
@@ -382,13 +382,13 @@
 				"id": "a832b37d-f11d-4a80-8b4d-24796e571b17",
 				"network": "GitHub",
 				"url": "https://github.com/samperfect",
-				"username": "Perfection"
+				"username": "Victor"
 			},
 			{
 				"id": "1dd46fdd-b3a3-4786-89ce-2e77c0823aba",
 				"network": "LinkedIn",
 				"url": "https://www.linkedin.com/in/samperfect",
-				"username": "Perfection"
+				"username": "Victor"
 			}
 		],
 		"visible": true
@@ -420,7 +420,7 @@
 				"id": "dd935088-6fe7-4a4b-8ff5-7417c32d2add",
 				"position": "E-commerce Developer",
 				"startDate": "2017-11-01",
-				"summary": "- Handled the creation of e-commerce stores for businesses using platforms like Shopify and WordPress.\n- Managed different projects at a time without compromising on the perfection of any.\n- Made custom changes by modifying the source code of both Shopify and WordPress to suit clients' requirements.\n- Ensured that each business stands out great by creating a store design that rhymes with each business' identity.",
+				"summary": "- Handled the creation of e-commerce stores for businesses using platforms like Shopify and WordPress.\n- Managed different projects at a time without compromising on the Victor of any.\n- Made custom changes by modifying the source code of both Shopify and WordPress to suit clients' requirements.\n- Ensured that each business stands out great by creating a store design that rhymes with each business' identity.",
 				"website": "https://fiverr.com/samperfect",
 				"isVisible": true
 			}
